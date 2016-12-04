@@ -1,0 +1,26 @@
+{
+  "name": "gif-bot-from-scratch",
+  "version": "0.0.1",
+  "description": "Create a Facebook Messenger Chatbot from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafarali/GIF-BOT-FROM-SCRATCH.git"
+  },
+  "keywords": [
+    "chatbot",
+    "facebook",
+    "messenger",
+    "tutorial"
+  ],
+  "author": "Zafarali Ahmed (http://www.zafarali/me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zafarali/GIF-BOT-FROM-SCRATCH/issues"
+  },
+  "homepage": "https://github.com/zafarali/GIF-BOT-FROM-SCRATCH#readme"
+}
